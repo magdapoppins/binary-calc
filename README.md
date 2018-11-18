@@ -14,4 +14,4 @@ Given 2 integers and a math operator, show the result as binary by lighting up L
 Circuit: 
 ![alt text][circuit]
 
-[circuit]: https://github.com/magdapoppins/binary-calc/raw/master/src/circuit.png
+[circuit]: https://github.com/magdapoppins/binary-calc/blob/master/circuit.png
